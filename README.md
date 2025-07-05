@@ -1,11 +1,10 @@
 # Olist-E-commerce-ETL-Pipeline-with-Azure-Data-Factory
 Built a robust Azure Data Factory pipeline to extract, transform, and load the million-record Olist dataset. This solution pulls data from both GitHub and a files.io database, demonstrating scalable data ingestion and cloud-native ETL processing.
 
-# GitHub Repository Description: Azure Olist E-Commerce Data Pipeline
 
 ## 🚀 **Million-Row E-Commerce Data Pipeline with Azure Data Factory**
 
-**Expertly engineered by [Your Name] | Azure Data Specialist | 25+ years of data integration experience**
+**Expertly engineered by Alpha Yerroh Barrie | Azure Data Specialist | 5+ years of data integration experience**
 
 ### 🔥 **Project Highlights**
 - Processed **1M+ rows** of Olist e-commerce data (Brazilian market leader)
